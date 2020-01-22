@@ -3,3 +3,8 @@
 Desafio de criar um crud para criar projetos e tarefas.
 
 É simples, apenas para exercício da linguagem JavaScript.
+
+Utilizei neste projeto:
+
+º Nodemon
+º Express
